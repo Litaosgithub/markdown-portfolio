@@ -27,3 +27,4 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
